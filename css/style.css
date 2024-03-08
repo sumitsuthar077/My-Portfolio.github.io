@@ -363,7 +363,7 @@ font-size:2em;
 }
 @media   screen and (min-width:375px) and (max-width:767px) {
     #skill{
-        margin-top:40vh;
+        margin-top:30vh;
         height:270vh;
     }
     .wrapper{
