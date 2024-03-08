@@ -466,7 +466,7 @@ justify-content: center;
 }
 @media    screen and (min-width:375px) and (max-width:767px) {
     #gallery{
-        height:230vh;
+        height:220vh;
     }
     
 }
